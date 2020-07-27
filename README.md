@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Somersall-Natalie/Somersall-Natalie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Natalie, a Linux system engineer experienced in developing infrastructure-as-code solutions and operations automation.  I'm also the lead admin for GitHub Enterprise at my employer, Booz Allen Hamilton.
 
-Here are some ideas to get you started:
+I work a lot with
+- GitHub Enterprise
+- Rundeck
+- Python
+- Shell scripting
+- but mostly, I work with people!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Heads up!
+- 🔭 I’m currently working on automating everything put in front of me.
+- 🌱 I’m currently learning some computer science basics.
+- 📫 How to reach me: For work related stuff, please reach out by opening a support ticket in our internal IT systems.  :)
+- 😄 Pronouns: she/her
