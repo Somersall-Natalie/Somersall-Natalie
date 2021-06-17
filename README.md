@@ -4,6 +4,7 @@ I'm Natalie, a Linux system engineer experienced in developing infrastructure-as
 
 I work a lot with
 - GitHub Enterprise
+- Kubernetes
 - Rundeck
 - Python
 - Shell scripting
